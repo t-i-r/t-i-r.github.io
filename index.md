@@ -1,9 +1,11 @@
 ## Welcome to TIR GitHub Pages
 
-I am TIR and I recently switched from ...bucket because everybody else is already here.
-I am intested in data science, data engineering, robotics, home automation, etc.
+This is [Tomas Rejtar](https://www.linkedin.com/in/tomas-rejtar-89994520/) and I switched from ...bucket because everybody else is already here.
+I am intested in data science (multi-omics), data engineering, robotics, home automation, etc.
 
-I work at [Novartis](https://www.novartis.com/our-science/novartis-institutes-biomedical-research) and I am embedded in Analytical Sciences and Imaging data science proteomics group applying mass spectrometry to support drug discovery.
+I work at [Novartis](https://www.novartis.com/our-science/novartis-institutes-biomedical-research) where I am embedded in Analytical Sciences and Imaging group, specifically in proteomics team applying data science to discover new medicines.
+
+Besides work, I also enjoy outdoor activities especially mountain biking [NEMBA](https://www.nemba.org/chapters/gbnemba), running, rock climbing but also philosophy e.g. [Ludwig Wittgenstein](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein), or architecture [van der Rohe](https://en.wikipedia.org/wiki/Ludwig_Mies_van_der_Rohe)
 
 TIR
 
